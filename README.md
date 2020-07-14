@@ -1,11 +1,11 @@
 
-![](1_L3H14UIQe5lxD6G154sIow.png){:height="24px" width="48px"}
 
+<img src="1_L3H14UIQe5lxD6G154sIow.png" height="24" width="48">
 
 <!--
 https://raw.githubusercontent.com/stevecondylios/stevecondylios/master/1_L3H14UIQe5lxD6G154sIow.png
 **stevecondylios/stevecondylios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](1_L3H14UIQe5lxD6G154sIow.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
