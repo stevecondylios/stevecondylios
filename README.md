@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+![](1_L3H14UIQe5lxD6G154sIow.png)
+
+
 <!--
+https://raw.githubusercontent.com/stevecondylios/stevecondylios/master/1_L3H14UIQe5lxD6G154sIow.png
 **stevecondylios/stevecondylios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
