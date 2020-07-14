@@ -1,6 +1,6 @@
 
 
-<img src="1_L3H14UIQe5lxD6G154sIow.png" height="24" width="48">
+<img src="1_L3H14UIQe5lxD6G154sIow.png" height="240" width="480">
 
 <!--
 https://raw.githubusercontent.com/stevecondylios/stevecondylios/master/1_L3H14UIQe5lxD6G154sIow.png
