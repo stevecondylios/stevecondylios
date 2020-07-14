@@ -1,5 +1,5 @@
 
-![](1_L3H14UIQe5lxD6G154sIow.png)
+![](1_L3H14UIQe5lxD6G154sIow.png){:height="24px" width="48px"}
 
 
 <!--
